@@ -1,0 +1,7 @@
+.idea
+*.txt
+/output
+/data
+*.pdf
+*.iml
+/target
